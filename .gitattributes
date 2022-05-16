@@ -1,0 +1,10 @@
+“Data.zip
+q
+qwe
+qwd
+dq
+git[[:space:]]lfs[[:space:]]track[[:space:]]“*.zip filter=lfs diff=lfs merge=lfs -text
+“Data.zip
+adsf
+git[[:space:]]lfs[[:space:]]track[[:space:]]“*.zip filter=lfs diff=lfs merge=lfs -text
+Data.zip filter=lfs diff=lfs merge=lfs -text
